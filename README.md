@@ -1,1 +1,2 @@
-# Assignment-2-Build-a-backend-Team9-
+# Equipment Lending System
+Instructions for running the application.
